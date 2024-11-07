@@ -1,3 +1,4 @@
 # 1st demo
 This is my first git repository<br>
-This is my first demo 
+This is my first demo of git
+
